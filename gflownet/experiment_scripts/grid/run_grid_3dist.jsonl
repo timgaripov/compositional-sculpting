@@ -1,0 +1,9 @@
+{"num_training_steps": 20000, "batch_size": 16, "reward_name": "circle1", "reward_temperature": 1.0, "uniform_pb": true, "seed": 100, "RUN.job_name": "{now:%H.%M.%S}/circle1_uniform_pb_100"}
+{"num_training_steps": 20000, "batch_size": 16, "reward_name": "circle1", "reward_temperature": 1.0, "uniform_pb": true, "seed": 200, "RUN.job_name": "{now:%H.%M.%S}/circle1_uniform_pb_200"}
+{"num_training_steps": 20000, "batch_size": 16, "reward_name": "circle1", "reward_temperature": 1.0, "uniform_pb": true, "seed": 300, "RUN.job_name": "{now:%H.%M.%S}/circle1_uniform_pb_300"}
+{"num_training_steps": 20000, "batch_size": 16, "reward_name": "circle2", "reward_temperature": 1.0, "uniform_pb": true, "seed": 100, "RUN.job_name": "{now:%H.%M.%S}/circle2_uniform_pb_100"}
+{"num_training_steps": 20000, "batch_size": 16, "reward_name": "circle2", "reward_temperature": 1.0, "uniform_pb": true, "seed": 200, "RUN.job_name": "{now:%H.%M.%S}/circle2_uniform_pb_200"}
+{"num_training_steps": 20000, "batch_size": 16, "reward_name": "circle2", "reward_temperature": 1.0, "uniform_pb": true, "seed": 300, "RUN.job_name": "{now:%H.%M.%S}/circle2_uniform_pb_300"}
+{"num_training_steps": 20000, "batch_size": 16, "reward_name": "circle3", "reward_temperature": 1.0, "uniform_pb": true, "seed": 100, "RUN.job_name": "{now:%H.%M.%S}/circle3_uniform_pb_100"}
+{"num_training_steps": 20000, "batch_size": 16, "reward_name": "circle3", "reward_temperature": 1.0, "uniform_pb": true, "seed": 200, "RUN.job_name": "{now:%H.%M.%S}/circle3_uniform_pb_200"}
+{"num_training_steps": 20000, "batch_size": 16, "reward_name": "circle3", "reward_temperature": 1.0, "uniform_pb": true, "seed": 300, "RUN.job_name": "{now:%H.%M.%S}/circle3_uniform_pb_300"}

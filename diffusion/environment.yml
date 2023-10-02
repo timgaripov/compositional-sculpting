@@ -1,0 +1,15 @@
+name: diffusion_sculpting
+channels:
+  - pytorch
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.11
+  - pytorch=2.0.0
+  - torchvision
+  - numpy
+  - scipy
+  - tqdm
+  - matplotlib
+  - pillow
